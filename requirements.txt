@@ -1,0 +1,6 @@
+google-generativeai
+PyMuPDF
+Pillow
+python-dotenv
+opencc-python-reimplemented
+openai
